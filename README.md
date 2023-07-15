@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **vene_pl#7777**
+- 📫 How to reach me **veneepl**
 
 - ⚡ Fun fact **I just want free robux**
 

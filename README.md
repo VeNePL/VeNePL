@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [notepaddesigner](https://github.com/VeNePL/NotepadDesigner)
 
-- 🌱 I’m currently learning **JavsScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **veneepl**
 

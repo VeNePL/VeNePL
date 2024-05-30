@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm veneepl</h1>
 <h3 align="center">A guy looking for discord and roblox things</h3>
 
-- 🔭 I’m currently working on [notepaddesigner](https://github.com/VeNePL/vxptloader](https://github.com/VeNePL/NotepadDesigner)
+- 🔭 I’m currently working on [notepaddesigner](https://github.com/VeNePL/NotepadDesigner)
 
 - 🌱 I’m currently learning **JavsScript**
 
